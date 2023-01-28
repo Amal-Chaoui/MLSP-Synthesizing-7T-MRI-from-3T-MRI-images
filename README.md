@@ -22,6 +22,7 @@ The code is organised as follows:
 * `BasicCNN.ipynb`: notebook describing the basic CNN network architecture and implementation.
 
 * `WATNet.ipynb`: notebook describing the WATNet network architecture and implementation.
+* `report.ipynb`: report describing the work performed in this project.
 
 ### Some results 
 ![My Image](images/results_1.png)
