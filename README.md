@@ -9,7 +9,7 @@ Magnetic Resonance Imaging (MRI) has been widely used in the medical field for t
 In their paper [Synthesizing 7T MRI from 3T MRI via deep neural in spatial and wavelet domains. 2020](https://www.sciencedirect.com/science/article/abs/pii/S1361841520300293), Qu et al. introduced a deep learning network *WATNet (Wavelet-based Affine Transformation Network)* that leverages both the spatial and frequency content of images using wavelets to learn the low-frequency information (i.e. contrast) while preserving the high-frequency details. 
 
 ### Purpose of the project
-In this project, we aim at reproducing the method and results of the paper by Qu et al., and compare the performance of the WATNet to that a basic CNN archiecture composed of Conv2D + BatchNorm + ReLU/sigmoid blocks.
+In this project, we aim at reproducing the method and results of the paper and comparing the performance of the WATNet to that of a basic CNN architecture composed of Conv2D + BatchNorm + ReLU/sigmoid blocks.
 
 ### Code
 The code is organised as follows: 
