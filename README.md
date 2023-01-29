@@ -15,14 +15,14 @@ In this project, we aim at reproducing the method and results of the paper and c
 The code is organised as follows: 
 * `raw_folder`: comprises the raw 7T MRI images of 10 different subjects.
 * `final_data`: 3T and 7T images after pre-processing the 7T MRI and artificially creating the 3T MRI from 7T through addition of Gaussian noise.
-* `original_paper`: the original paper by Qu et al. 
+* `original_paper.pdf`: the original paper by Qu et al. 
 
 * `data_preprocessing.ipynb`: notebook describing the pre-processing steps of the 3T and 7T images.
 
 * `BasicCNN.ipynb`: notebook describing the basic CNN network architecture and implementation.
 
 * `WATNet.ipynb`: notebook describing the WATNet network architecture and implementation.
-* `report.ipynb`: report describing the work performed in this project.
+* `MLSP_report.pdf`: report describing the work performed in this project.
 
 ### Some results 
 ![My Image](images/results_1.png)
