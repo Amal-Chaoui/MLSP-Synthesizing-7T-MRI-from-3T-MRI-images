@@ -24,6 +24,7 @@ The code is organised as follows:
 * `original_paper.pdf`: the original paper by Qu et al. 
 
 * `MLSP_report.pdf`: report describing the work performed in this project.
+* `MLSP_slides.pdf`: slides of the presentation.
 
 
 ### Some results 
